@@ -1,0 +1,5 @@
+{
+  "name": "Portal de Registros",
+  "description": "Una aplicación para gestionar registros de acceso a portales de clientes, permitiendo operaciones de alta, baja y modificación (ABM) para registros, clientes y portales.",
+  "requestFramePermissions": []
+}
